@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_3ZvGULOCEfGhjqco2sVJRQ" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_3ZvGUbOCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_OAuthAccessToken" prompt="BigQuery_Dev_OAuthAccessToken?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3ZvGUrOCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_ClientId" prompt="BigQuery_Dev_ClientId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3ZvGU7OCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_AuthenticationCode" prompt="BigQuery_Dev_AuthenticationCode?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3ZvGVLOCEfGhjqco2sVJRQ" comment="" name="connection_HCABigQuery_CredentialsFile" prompt="connection_HCABigQuery_CredentialsFile?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/scdemoadmin/Downloads/scdemo-310013-78121ae95dd0.json"/>
+  <contextParameter xmi:id="_3ZvGVbOCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_RegionEndpoint" prompt="BigQuery_Dev_RegionEndpoint?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="https://bigquery.googleapis.com"/>
+  <contextParameter xmi:id="_3ZvGVrOCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_ClientLibraryConfigurationFile" prompt="BigQuery_Dev_ClientLibraryConfigurationFile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3ZvGV7OCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_ClientSecret" prompt="BigQuery_Dev_ClientSecret?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_3ZvGWLOCEfGhjqco2sVJRQ" comment="" name="connection_HCABigQuery_ProjectId" prompt="connection_HCABigQuery_ProjectId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="scdemo-310013"/>
+  <contextParameter xmi:id="_3ZvGWbOCEfGhjqco2sVJRQ" comment="" name="BigQuery_Dev_RedirectUri" prompt="BigQuery_Dev_RedirectUri?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

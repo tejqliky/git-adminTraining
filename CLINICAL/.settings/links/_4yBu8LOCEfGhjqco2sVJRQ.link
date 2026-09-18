@@ -1,0 +1,35 @@
+{
+  "itemId" : "_4yBu8LOCEfGhjqco2sVJRQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_3ZPXELOCEfGhjqco2sVJRQ",
+    "parameterList" : [ {
+      "id" : "_3ZvGUbOCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_OAuthAccessToken"
+    }, {
+      "id" : "_3ZvGUrOCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_ClientId"
+    }, {
+      "id" : "_3ZvGU7OCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_AuthenticationCode"
+    }, {
+      "id" : "_3ZvGVLOCEfGhjqco2sVJRQ",
+      "name" : "connection_HCABigQuery_CredentialsFile"
+    }, {
+      "id" : "_3ZvGVbOCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_RegionEndpoint"
+    }, {
+      "id" : "_3ZvGVrOCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_ClientLibraryConfigurationFile"
+    }, {
+      "id" : "_3ZvGV7OCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_ClientSecret"
+    }, {
+      "id" : "_3ZvGWLOCEfGhjqco2sVJRQ",
+      "name" : "connection_HCABigQuery_ProjectId"
+    }, {
+      "id" : "_3ZvGWbOCEfGhjqco2sVJRQ",
+      "name" : "BigQuery_Dev_RedirectUri"
+    } ]
+  } ]
+}
